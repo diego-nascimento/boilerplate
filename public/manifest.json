@@ -1,0 +1,9 @@
+{
+  "name": "React Avançado - Boilerplate",
+  "Short_name":  "React Avançado",
+  "background-color":  "#06092B",
+  "description": "BoilerPlate utilizando Typescript, React, Nextjs e Styled Components!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
